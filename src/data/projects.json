@@ -1,0 +1,326 @@
+{
+  "profile": {
+    "name": "ポートフォリオ イム",
+    "title": "Webデザイナー & Webエンジニア / DTPスペシャリスト",
+    "subTitle": "Webデザイン・フロントエンド開発・DTP印刷編集・WordPressテーマ制作を一貫して手掛けるマルチクリエイター",
+    "bio": "洗練されたDTP印刷デザインのセンスと、Next.js / Vue.jsをベースとしたモダンなWeb開発技術を併せ持ち、企画・デザインからコーディング・印刷入稿・WordPress構築まで全工程を一貫して対応できるハイブリッド人材です。",
+    "email": "the_bible@naver.com",
+    "phone": "080-5327-7409",
+    "location": "大阪府　茨木市 / 日本",
+    "github": "https://github.com/imhoyong",
+    "yearsOfExperience": "実務経験 20年以上"
+  },
+  "categories": [
+    {
+      "id": "all",
+      "label": "すべて (All)"
+    },
+    {
+      "id": "web-design",
+      "label": "Webデザイン"
+    },
+    {
+      "id": "web-dev",
+      "label": "Web開発"
+    },
+    {
+      "id": "dtp",
+      "label": "DTP / 印刷編集"
+    },
+    {
+      "id": "wordpress",
+      "label": "WordPressテーマ"
+    }
+  ],
+  "projects": [
+    {
+      "title": "韓国 同窓生探すコミュニティーサイト(アイラブスクール)",
+      "category": "web-dev",
+      "categoryLabel": "Web開発",
+      "subtitle": "韓国の「同窓生検索・交流SNS」の草分け（元祖SNS）",
+      "description": "FacebookやTwitterが広まる10年も前に、韓国全土で社会現象を巻き起こした伝説的なWebサービスとして知られています。",
+      "longDescription": "自分の出身校（小学校、中学校、高校、大学）を登録・検索することで、疎遠になっていたかつての同級生や先輩・後輩を探し出し、メッセージ交換や掲示板で交流できるサービスでした。\nサービス開始からわずか1年足らずで会員数500万人を突破し（最終的には1,000万人以上）、当時の韓国のインターネット界で異例の成長を記録しました。\n「昔の友人と再会する」というブームが起こり、韓国全土で空前の同窓会・オフ会ラッシュが社会現象となりました。",
+      "role": "アルロブ ブログ、アルロブゲームのサイト開発に従事",
+      "period": "2003.12 - 2005.07",
+      "tools": [
+        "ASP、MS-SQL、VB"
+      ],
+      "features": [
+        "基本設計～詳細設計、プログラミング、DB設計を担当し、サブリーダーとして50人のチームを管理。"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/iloveschool.jpg?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "http://www.iloveschool.co.kr",
+      "id": "proj-1788921770713"
+    },
+    {
+      "title": "入口ページ試案２",
+      "category": "web-design",
+      "categoryLabel": "Webデザイン",
+      "subtitle": "UI/UXデザイン",
+      "description": "学園内の関連校（ファミリーサイト）へ行きやすい回遊導線を企画・設計",
+      "longDescription": "園が運営する複数の関連校（専門学校・ICTカレッジ・進学予備校など）のサイトへスムーズに回遊できるよう、ファミリーサイト導線を企画・設計。",
+      "role": "UI/UXデザイン 100%",
+      "period": "2026.08 - 2026.09",
+      "tools": [
+        "HTML5",
+        "CSS3",
+        "PHOTOSHOP、ILLUSTRATOR"
+      ],
+      "features": [
+        "レスポンシブWebデザイン対応",
+        "デザインシステム構築"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/HP_index2.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "id": "proj-1788769738460",
+      "demoUrl": "https://www.ehle.ac.jp/index/"
+    },
+    {
+      "title": "入口ページのデザイン",
+      "category": "web-design",
+      "categoryLabel": "Webデザイン",
+      "subtitle": "UI/UXデザイン ",
+      "description": "学園内の関連校（ファミリーサイト）へ行きやすい回遊導線を企画・設計",
+      "longDescription": "園が運営する複数の関連校（専門学校・ICTカレッジ・進学予備校など）のサイトへスムーズに回遊できるよう、ファミリーサイト導線を企画・設計。",
+      "role": "UI/UXデザイン 100%",
+      "period": "2026.08 - 2026.09",
+      "tools": [
+        "HTML5",
+        "CSS3",
+        "PHOTOSHOP、ILLUSTRATOR"
+      ],
+      "features": [
+        "レスポンシブWebデザイン対応"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/HP_index.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "https://www.ehle.ac.jp/index4",
+      "id": "proj-1788769495393"
+    },
+    {
+      "title": "日本語学校ホームページリニューアル",
+      "category": "web-design",
+      "categoryLabel": "Webデザイン",
+      "subtitle": "WORDPRESS、PHOTOSHOP、ILLUSTRATOR、JAVASCRIPT、CSS3、MYSQL",
+      "description": "日本語教育学科のサイトリニューアルにあたり、WordPressオリジナルテーマをゼロから設計・開発。企画からデザイン、フロントエンド、バックエンドまで一人で担当。",
+      "longDescription": "日本語教育学科のサイトリニューアルを一人で担当。企画・デザインからWordPressオリジナルテーマのフルスクラッチ開発まで対応し、外国人留学生向けの募集要項多言語対応（英語・ベトナム語・インドネシア語・韓国語）も含めた、学科全体のWeb・広報基盤の構築に携わりました。",
+      "role": "ら設計・開発,企画からデザイン、フロントエンド、バックエンド",
+      "period": "2026.08 - 2026.09",
+      "tools": [
+        "HTML5",
+        "CSS3",
+        "php、wordpress、javascript、mysql、PHOTOSHOP、ILLUSTRATOR",
+        "PDFJS"
+      ],
+      "features": [
+        "レスポンシブWebデザイン対応,PDFJSライブライブを利用したPDFWebViewer使用"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/jls.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "id": "proj-1788768341527",
+      "demoUrl": "https://jls.ehle.ac.jp"
+    },
+    {
+      "title": "エール予備校ホームページ 予備校オリジナルテーマ",
+      "category": "wordpress",
+      "categoryLabel": "WordPressテーマ",
+      "subtitle": "カスタムPHPテーマ & ACF統合",
+      "description": "予備校サイトのリニューアルにあたり、WordPressオリジナルテーマをゼロから設計・開発。企画からデザイン、フロントエンド、バックエンドまで一人で担当。",
+      "longDescription": "予備校サイトのリニューアルを一人で担当。既存サイトの課題分析から企画・UI設計を行い、WordPressオリジナルテーマをフルスクラッチで開発。カスタム投稿タイプやカスタマイザーを活用した管理画面の使いやすさにもこだわり、フロントエンド・バックエンドの両面を一貫して構築",
+      "role": "設計・開発。企画からデザイン、フロントエンド、バックエンド",
+      "period": "2023.02 - 2023.05",
+      "tools": [
+        "php、wordpress、javascript、mysql、PHOTOSHOP、ILLUSTRATOR"
+      ],
+      "features": [
+        "レスポンシブWebデザイン対応,",
+        "ACF,CPT UIを利用した管理者ページ構築"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/ybk.jpg?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "https://ybk.ehle.ac.jp",
+      "id": "proj-1788767606229"
+    },
+    {
+      "title": "韓国語・英語専攻／中国語・英語専攻 ホームページ新規開発",
+      "category": "web-design",
+      "categoryLabel": "Webデザイン",
+      "subtitle": "WORDPRESS、PHOTOSHOP、ILLUSTRATOR、JAVASCRIPT、CSS3、MYSQL",
+      "description": "Webサイトの企画・UI/UXデザインからフロントエンド・バックエンド開発まで、全工程を一人で担当",
+      "longDescription": "企画→デザイン→フロント→バック",
+      "role": "UI/UXデザイン 100%",
+      "period": "2025.03 - 2025.04",
+      "tools": [
+        "php、wordpress、javascript、mysql、PHOTOSHOP、ILLUSTRATOR"
+      ],
+      "features": [
+        "レスポンシブWebデザイン対応"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/kotoba_college.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "https://college-js.ehle.ac.jp/",
+      "id": "proj-1788765909901"
+    },
+    {
+      "title": "専門学校エール学園ICT校 ホームページ",
+      "category": "web-design",
+      "categoryLabel": "Webデザイン",
+      "subtitle": "WORDPRESS、PHOTOSHOP、ILLUSTRATOR、JAVASCRIPT、CSS3、MYSQL",
+      "description": "新規学校のホームページ制作",
+      "longDescription": "企画・デザイン・フロントエンド・バックエンドをすべて一人で担当し、WordPressを用いたコーポレートサイトの構築・リニューアルを実施。",
+      "role": "UI/UXデザイン 100%、フロントエンド、バックエンド、DNS設定、SSL設定",
+      "period": "2025.01 - 2025.03",
+      "tools": [
+        "php、wordpress、javascript、mysql、PHOTOSHOP、ILLUSTRATOR"
+      ],
+      "features": [
+        "WordPress(YOOtheme)を使用したコーポレートサイトのリニューアルにおいて、企画・デザイン・フロントエンド・バックエンド開発を一人で担当。複数サブドメインの統合設計やCPT(カスタム投稿タイプ)を活用した情報構造の再設計まで、幅広い工程をワンストップで遂行"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/ict.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "https://ict-college.ehle.ac.jp/",
+      "id": "proj-1788764979791"
+    },
+    {
+      "id": "proj-1",
+      "title": "学園ホームページリニューアル",
+      "category": "web-design",
+      "categoryLabel": "Webデザイン",
+      "subtitle": "WORDPRESS、PHOTOSHOP、ILLUSTRATOR、JAVASCRIPT、CSS3、MYSQL",
+      "description": "複雑な健康診断レポート画面をUX調査に基づき再設計し、情報の視認性と操作性を40%以上向上させたプロジェクト。",
+      "longDescription": "ユーザーリサーチおよびペルソナ分析をもとにUI/UXデザインを全面的に刷新。Figmaでデザインシステムを構築し、アクセシビリティを考慮したカラーパレットとレスポン시ブレイアウトを定義しました。",
+      "role": "UI/UXデザイン 100%, ワードプレス構築",
+      "period": "2024.03 - 2024.04",
+      "tools": [
+        "Photoshop",
+        "Illustrator",
+        "yootheme page build"
+      ],
+      "features": [
+        "サーバー設定、SSL設定、DNS設定、全ページ企画",
+        "page builderによる　カスタマイズ",
+        "PC・タブレット・スマホ対応レスポンシ브ワイヤーフレーム"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/ehletop.jpg?raw=true",
+      "demoUrl": "https://www.ehle.ac.jp"
+    },
+    {
+      "id": "proj-2",
+      "title": "専門学校ホームページ",
+      "category": "web-design",
+      "categoryLabel": "Webデザイン",
+      "subtitle": "WORDPRESS、PHOTOSHOP、ILLUSTRATOR、JAVASCRIPT、CSS3、MYSQL",
+      "description": "専門学校ホームページとして、フロントからバックエンドまで制作しました。",
+      "longDescription": "Next.js App RouterとServer Actionsを活用して高速なページロードを達成し、レスポンシブなグリッドレイアウトおよびカテゴリ検索フィルターを自作しました。",
+      "role": "フロントエンド、バックエンド開発 100%, UI実装、バナーデザイン",
+      "period": "2025.06 - 2024.07",
+      "tools": [
+        "php、wordpress、javascript、mysql、PHOTOSHOP、ILLUSTRATOR"
+      ],
+      "features": [
+        "WORDPRESS、PAGEBUILDER、CSS、js"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/college.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "https://college.ehle.ac.jp",
+      "githubUrl": "https://github.com/example/portfolio-app"
+    },
+    {
+      "id": "proj-3",
+      "title": "2027年専門学校パンフレット",
+      "category": "dtp",
+      "categoryLabel": "DTP / 印刷編集",
+      "subtitle": "28ページ案内冊子およびブランディングパッケージデザイン",
+      "description": "学生募集案内のため、",
+      "longDescription": "Photoshop, Illustratorを用いて企画、デザイン、編集まで制作。CMYK 4色印刷のカラー校正、PP加工などの後加工指定・印刷まで担当しました。",
+      "role": "DTP印刷編集 100%, 印刷立会い・仕様指定",
+      "period": "2026.4 - 2026.5",
+      "tools": [
+        "Photoshop",
+        "Illustrator",
+        "CMYK Print Management"
+      ],
+      "features": [],
+      "thumbnail": "https://college.ehle.ac.jp/wp-content/themes/yootheme/cache/f2/1-f29d629d.webp?auto=format&fit=crop&w=800&q=80",
+      "pdfUrl": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/2026ehlecollege_.pdf",
+      "demoUrl": "https://college.ehle.ac.jp/dp/#p=1"
+    },
+    {
+      "id": "proj-4",
+      "title": "エール学園名札制作システム",
+      "category": "web-dev",
+      "categoryLabel": "Web開発",
+      "subtitle": "エール学園名札制作システム",
+      "description": "ExcelやCSVの名簿データから、名札を自動生成するデスクトップアプリケーションです。",
+      "longDescription": "illustratorができない人のために、簡単に操作できるソフトを作りました。\nAI CLIを利用して制作したものです。",
+      "role": "claud ,gemini cli , Python ",
+      "period": "2026.01 - 2026.01",
+      "tools": [
+        "claud",
+        "gemini cli",
+        "Python"
+      ],
+      "features": [
+        "データ読込: Excel (.xlsx) / CSV ファイルに対応。",
+        "配置調整: 本部名、部署名、名前、ふりがなのフォント・サイズ・位置を個別に調整可能。",
+        "プレビュー: 設定変更をリアルタイムに確認可能。",
+        "一括設定: 1人の設定を全データに一括適用。",
+        "PDF出力: A4用紙に最適化された印刷用PDF（表裏ペア）を生成。"
+      ],
+      "thumbnail": "https://github.com/imhoyong/nahuda/blob/main/nahuda.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "https://example.com/wp-demo",
+      "githubUrl": "https://github.com/imhoyong/nahuda"
+    },
+    {
+      "id": "proj-5",
+      "title": "韓国 音楽ポータルサイト",
+      "category": "dtp",
+      "categoryLabel": "DTP / 印刷編集",
+      "subtitle": "韓国のKT　音楽を携帯から感想できるサイトです。",
+      "description": "韓国の通信大手KT（旧KTFおよびKT Music）が運営していた大手のデジタル音楽配信・音楽ポータルサービス",
+      "longDescription": "PCやフィーチャーフォン（後にスマートフォン）向けに、音楽ストリーミングや音源ファイル（MP3/DRM付き音源）のダウンロード機能を提供",
+      "role": "週間100位ランク集計自動化開発",
+      "period": "2005.08 - 2005.03",
+      "tools": [
+        "VB",
+        "ASP. MS-SQL",
+        "JS"
+      ],
+      "features": [
+        "ommon module 開発、DB設計、CMS 開発"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/200907021103271002_1%5B1%5D.jpg?raw=true?auto=format&fit=crop&w=800&q=80",
+      "demoUrl": "https://www.dosirak.com/"
+    },
+    {
+      "id": "proj-6",
+      "title": "関関同立学力判定模試 申込・管理システム",
+      "category": "web-dev",
+      "categoryLabel": "Web開発",
+      "subtitle": "HTML5, CSS3 (CSS Variables, Flexbox/Grid, Responsive Design), JavaScript (ES6+, Fetch API)",
+      "description": "大規模な模試受験生（現役生・既卒生・自宅受験生）からの申込受付および、システム管理者がリアルタイムで申込データや各種設定を一元管理できるWeb申込・管理システム。\n対象区分に応じた入力項目の動的制御、リアルタイム重複チェック、高校コード検索、および管理者向けの柔軟なDBテーブル動的生成・CSVデータ出力機能を備えています。",
+      "longDescription": "・フロントエンド: HTML5, CSS3 (CSS Variables, Flexbox/Grid, Responsive Design), JavaScript (ES6+, Fetch API)\n・バックエンド: PHP 8.x (Procedural / Modular, PDO, strict_types, UTF-8)\n・データベース: MySQL / MariaDB (InnoDB & MyISAM, FULLTEXT Index, UTF8MB4)\n・メール配信: PHPMailer (SMTP認証)\n・セキュリティ・信頼性: プリペアドステートメント (SQLインジェクション対策), htmlspecialchars (XSS対策), リロードトークン (二重送信防止)",
+      "role": "Vueフロントエンド・バックエンド開発 100%",
+      "period": "2026.03 - 2026.04",
+      "tools": [
+        "HTML5",
+        "CSS3 (CSS Variables",
+        "Flexbox/Grid",
+        "Responsive Design)",
+        "JavaScript (ES6+",
+        "Fetch API)"
+      ],
+      "features": [
+        "【ユーザー側（申込フォーム機能）】",
+        "・区分別独立フォーム (現役生 / 既卒生 / 自宅受験生): 区分に応じた入力項目（住所, 電話, 学年, 組, 出席番号, 会場設定, 受験科目型等）の動的表示切替。",
+        "・リアルタイム重複チェック: Ajax（Fetch API）を活用したメールアドレスの即時検証と、BINARY LOWER(TRIM(email)) による厳格な二重登録防止。",
+        "・高校コード連動検索: 都道府県・市区町村に連動した高校マスター（hs_code）の即時検索・選択機能（インクリメンタルサーチ）。",
+        "・二重送信防止・フォーム復元: リロードトークン制御および「戻る」ボタン利用時の入力状態スムーズ復元。",
+        "・自動返信メール配信: 申込者・管理者宛ての即時自動返信通知（PHPMailer / SMTP連携）。",
+        "【管理者側（管理パネル機能）】",
+        "・システム基本設定・SMTP管理: 模試タイトル, 日程, お知らせ(HTML可), 送信元/宛先アドレスおよびSMTP認証設定の即時変更。",
+        "・区分別 ページ公開 / 非公開コントロール: 現役生・既卒生・自宅受験生それぞれのフォームおよび完了ページの公開状態を独立切替。",
+        "・DBテーブル動的生成・運用機能: 試験回数・年度ごとの申込テーブル（ybk_apply_YYYY_MM）の動的作成・削除・自動カウント。",
+        "・重複チェック対象テーブルカスタマイズ: 全テーブル自動検出モード、または特定テーブルのみを対象とする個別選択モードの設定。",
+        "・高校コードマスター（hs_code）管理: 高校検索、個別追加・編集・削除、エリアコード自動算出、CSVインポート/エクスポート。",
+        "・CSVデータダウンロード: Excelでの自動日付変換（3-13-1 → 3月13日）や勝手な右寄せ表示を防ぐ不可視文字エンコード処理および全列左寄せエクスポート。"
+      ],
+      "thumbnail": "https://github.com/imhoyong/imhoyong.github.io/blob/main/portfolio/kannkanndouritu.png?raw=true?auto=format&fit=crop&w=800&q=80",
+      "githubUrl": "https://github.com/",
+      "demoUrl": "https://ybk.ehle.ac.jp/apply/apply021.php"
+    }
+  ]
+}
